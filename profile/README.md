@@ -1,4 +1,4 @@
-![Emerald Store GitHub Banner](https://i.imgur.com/cxI8GJE.png)
+![Emerald Store GitHub Banner](https://i.imgur.com/UmiIw7Z.png)
 
 # ABOUT US
 ### WHO IS EMERALD STORE?
