@@ -1,14 +1,14 @@
-![Emerald Store GitHub Banner](https://i.imgur.com/UmiIw7Z.png)
+![Vanguard GitHub Banner](https://i.imgur.com/UmiIw7Z.png)
 
 # ABOUT US
-### WHO IS EMERALD STORE?
-> Welcome to Emerald Store, your new primary destination for unique FiveM scripts. We are dedicated to enhancing your gaming adventure and taking it to new heights.
+### WHO IS VANGUARD?
+> Welcome to Vanguard, your new primary destination for unique FiveM scripts. We are dedicated to enhancing your gaming adventure and taking it to new heights.
 
 # OUR TEBEX STORE
-> [Visit our Tebex Store](https://emerald-store.tebex.io)
+> [Visit our Tebex Store](https://vanguard-store.tebex.io)
 
 # OUR DOCUMENTATION
-> [Read our documentation](https://emerald-store.gitbook.io/docs/)
+> [Read our documentation](https://vanguard-store.gitbook.io/docs/)
 
 # OUR TEAM
 <div align="center">
